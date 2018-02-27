@@ -36,7 +36,6 @@ class Question:
         # the solution url
         self.python = ''
         self.java = ''
-        self.javascript = ''
         self.c_plus_plus = ''
 
     def __repr__(self):
@@ -138,12 +137,6 @@ class TableInform:
                             folder_url = os.path.join(folder_url, item)
                             folder_url = os.path.join(Config.github_leetcode_url, folder_url)
                             self.table_item[folder[:3]].c_plus_plus = '[C++]({})'.format(folder_url)
-                        elif item.endswith('.js'):
-                            complete_info.solved['javascript'] += 1
-                            folder_url = folder.replace(' ', "%20")
-                            folder_url = os.path.join(folder_url, item)
-                            folder_url = os.path.join(Config.github_leetcode_url, folder_url)
-                            self.table_item[folder[:3]].javascript = '[JavaScript]({})'.format(folder_url)
         readme = Readme(complete_info.total, complete_info.complete_num, complete_info.lock, complete_info.solved)
         readme.create_leetcode_readme([self.table, self.table_item])
         print('-------the complete inform-------')
@@ -159,7 +152,6 @@ class CompleteInform:
             'python': 0,
             'c++': 0,
             'java': 0,
-            'javascript': 0
         }
         self.complete_num = 0
         self.lock = 0
@@ -189,7 +181,6 @@ class Readme:
                    'Until {}, I have solved **{}** / **{}** problems ' \
                    'while **{}** are still locked.' \
                    '\n\nCompletion statistic: ' \
-                   '\n1. JavaScript: {javascript} ' \
                    '\n2. Python: {python}' \
                    '\n3. C++: {c++}' \
                    '\n4. Java: {java}' \
@@ -209,7 +200,7 @@ class Readme:
 
         with open(file_path, 'a') as f:
             f.write('## LeetCode Solution Table\n')
-            f.write('| ID | Title | Difficulty | JavaScript | Python | C++ | Java |\n')
+            f.write('| ID | Title | Difficulty | Python | C++ | Java |\n')
             f.write('|:---:' * 7 + '|\n')
             table, table_item = table_instance
             for index in table:
@@ -222,12 +213,11 @@ class Readme:
                     'id': item.id_,
                     'title': '[{}]({}) {}'.format(item.title, item.url, _lock),
                     'difficulty': item.difficulty,
-                    'js': item.javascript if item.javascript else 'To Do',
                     'python': item.python if item.python else 'To Do',
                     'c++': item.c_plus_plus if item.c_plus_plus else 'To Do',
                     'java': item.java if item.java else 'To Do'
                 }
-                line = '|{id}|{title}|{difficulty}|{js}|{python}|{c++}|{java}|\n'.format(**data)
+                line = '|{id}|{title}|{difficulty}|{python}|{c++}|{java}|\n'.format(**data)
                 f.write(line)
             print('README.md was created.....')
 
