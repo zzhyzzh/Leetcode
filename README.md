@@ -1,5 +1,5 @@
 # Keep thinking, keep alive
-Until 2018-02-28 01:17:50, I have solved **0** / **706** problems while **132** are still locked.
+Until 2018-02-28 01:20:28, I have solved **0** / **706** problems while **132** are still locked.
 
 Completion statistic: 
 1. Python: 0
@@ -11,7 +11,7 @@ Note: :lock: means you need to buy a book from LeetCode
 ----------------
 ## LeetCode Solution Table
 | ID | Title | Difficulty | Python | C++ | Java |
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |001|[Two Sum](https://leetcode.com/problems/two-sum/description/) |Easy|To Do|To Do|To Do|
 |002|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/) |Medium|To Do|To Do|To Do|
 |003|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/) |Medium|To Do|To Do|To Do|
