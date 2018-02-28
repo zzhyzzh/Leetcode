@@ -1,8 +1,8 @@
 # Keep thinking, keep alive
-Until 2018-02-28 01:20:28, I have solved **0** / **706** problems while **132** are still locked.
+Until 2018-03-01 00:01:03, I have solved **3** / **706** problems while **132** are still locked.
 
 Completion statistic: 
-1. Python: 0
+1. Python: 2
 2. C++: 0
 3. Java: 0
 
@@ -12,8 +12,8 @@ Note: :lock: means you need to buy a book from LeetCode
 ## LeetCode Solution Table
 | ID | Title | Difficulty | Python | C++ | Java |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-|001|[Two Sum](https://leetcode.com/problems/two-sum/description/) |Easy|To Do|To Do|To Do|
-|002|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/) |Medium|To Do|To Do|To Do|
+|001|[Two Sum](https://leetcode.com/problems/two-sum/description/) |Easy|[Python](https://github.com/zzhyzzh/Leetcode/blob/master/leetcode-algorithms/001.%20Two%20Sum\twoSum.py)|To Do|To Do|
+|002|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/) |Medium|[Python](https://github.com/zzhyzzh/Leetcode/blob/master/leetcode-algorithms/002.%20Add%20Two%20Numbers\addTwoNumbers.py)|To Do|To Do|
 |003|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/) |Medium|To Do|To Do|To Do|
 |004|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/description/) |Hard|To Do|To Do|To Do|
 |005|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/description/) |Medium|To Do|To Do|To Do|
