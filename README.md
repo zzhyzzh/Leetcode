@@ -1,8 +1,8 @@
 # Keep thinking, keep alive
-Until 2018-03-02 00:00:39, I have solved **4** / **706** problems while **132** are still locked.
+Until 2018-03-08 12:18:22, I have solved **5** / **710** problems while **132** are still locked.
 
 Completion statistic: 
-1. Python: 3
+1. Python: 4
 2. C++: 0
 3. Java: 0
 
@@ -18,7 +18,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |004|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/description/) |Hard|To Do|To Do|To Do|
 |005|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/description/) |Medium|To Do|To Do|To Do|
 |006|[ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/description/) |Medium|To Do|To Do|To Do|
-|007|[Reverse Integer](https://leetcode.com/problems/reverse-integer/description/) |Easy|To Do|To Do|To Do|
+|007|[Reverse Integer](https://leetcode.com/problems/reverse-integer/description/) |Easy|[Python](https://github.com/zzhyzzh/Leetcode/leetcode-algorithms/007.%20Reverse%20Integer\reverse.py)|To Do|To Do|
 |008|[String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/description/) |Medium|To Do|To Do|To Do|
 |009|[Palindrome Number](https://leetcode.com/problems/palindrome-number/description/) |Easy|To Do|To Do|To Do|
 |010|[Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/description/) |Hard|To Do|To Do|To Do|
@@ -718,3 +718,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |789|[Escape The Ghosts](https://leetcode.com/problems/escape-the-ghosts/description/) |Medium|To Do|To Do|To Do|
 |790|[Domino and Tromino Tiling](https://leetcode.com/problems/domino-and-tromino-tiling/description/) |Medium|To Do|To Do|To Do|
 |791|[Custom Sort String](https://leetcode.com/problems/custom-sort-string/description/) |Medium|To Do|To Do|To Do|
+|792|[Number of Matching Subsequences](https://leetcode.com/problems/number-of-matching-subsequences/description/) |Medium|To Do|To Do|To Do|
+|793|[Preimage Size of Factorial Zeroes Function](https://leetcode.com/problems/preimage-size-of-factorial-zeroes-function/description/) |Hard|To Do|To Do|To Do|
+|794|[Valid Tic-Tac-Toe State](https://leetcode.com/problems/valid-tic-tac-toe-state/description/) |Medium|To Do|To Do|To Do|
+|795|[Number of Subarrays with Bounded Maximum](https://leetcode.com/problems/number-of-subarrays-with-bounded-maximum/description/) |Medium|To Do|To Do|To Do|
