@@ -1,8 +1,8 @@
 # Keep thinking, keep alive
-Until 2018-03-08 20:25:46, I have solved **6** / **710** problems while **132** are still locked.
+Until 2018-03-09 11:21:53, I have solved **7** / **710** problems while **132** are still locked.
 
 Completion statistic: 
-1. Python: 5
+1. Python: 6
 2. C++: 0
 3. Java: 0
 
@@ -17,7 +17,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |003|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/) |Medium|[Python](https://github.com/zzhyzzh/Leetcode/leetcode-algorithms/003.%20Longest%20Substring%20Without%20Repeating%20Characters\lengthOfLongestSubstring.py)|To Do|To Do|
 |004|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/description/) |Hard|To Do|To Do|To Do|
 |005|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/description/) |Medium|[Python](https://github.com/zzhyzzh/Leetcode/leetcode-algorithms/005.%20Longest%20Palindromic%20Substring\longestPalindrome.py)|To Do|To Do|
-|006|[ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/description/) |Medium|To Do|To Do|To Do|
+|006|[ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/description/) |Medium|[Python](https://github.com/zzhyzzh/Leetcode/leetcode-algorithms/006.%20ZigZag%20Conversion\convert.py)|To Do|To Do|
 |007|[Reverse Integer](https://leetcode.com/problems/reverse-integer/description/) |Easy|[Python](https://github.com/zzhyzzh/Leetcode/leetcode-algorithms/007.%20Reverse%20Integer\reverse.py)|To Do|To Do|
 |008|[String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/description/) |Medium|To Do|To Do|To Do|
 |009|[Palindrome Number](https://leetcode.com/problems/palindrome-number/description/) |Easy|To Do|To Do|To Do|
