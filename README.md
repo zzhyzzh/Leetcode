@@ -1,8 +1,8 @@
 # Keep thinking, keep alive
-Until 2018-03-10 16:21:06, I have solved **9** / **710** problems while **132** are still locked.
+Until 2018-03-11 12:40:37, I have solved **10** / **714** problems while **132** are still locked.
 
 Completion statistic: 
-1. Python: 8
+1. Python: 9
 2. C++: 0
 3. Java: 0
 
@@ -19,7 +19,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |005|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/description/) |Medium|[Python](https://github.com/zzhyzzh/Leetcode/leetcode-algorithms/005.%20Longest%20Palindromic%20Substring\longestPalindrome.py)|To Do|To Do|
 |006|[ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/description/) |Medium|[Python](https://github.com/zzhyzzh/Leetcode/leetcode-algorithms/006.%20ZigZag%20Conversion\convert.py)|To Do|To Do|
 |007|[Reverse Integer](https://leetcode.com/problems/reverse-integer/description/) |Easy|[Python](https://github.com/zzhyzzh/Leetcode/leetcode-algorithms/007.%20Reverse%20Integer\reverse.py)|To Do|To Do|
-|008|[String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/description/) |Medium|To Do|To Do|To Do|
+|008|[String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/description/) |Medium|[Python](https://github.com/zzhyzzh/Leetcode/leetcode-algorithms/008.%20String%20to%20Integer%20(atoi)\myAtoi.py)|To Do|To Do|
 |009|[Palindrome Number](https://leetcode.com/problems/palindrome-number/description/) |Easy|[Python](https://github.com/zzhyzzh/Leetcode/leetcode-algorithms/009.%20Palindrome%20Number\isPalindrome.py)|To Do|To Do|
 |010|[Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/description/) |Hard|To Do|To Do|To Do|
 |011|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/) |Medium|[Python](https://github.com/zzhyzzh/Leetcode/leetcode-algorithms/011.%20Container%20With%20Most%20Water\maxArea.py)|To Do|To Do|
@@ -722,3 +722,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |793|[Preimage Size of Factorial Zeroes Function](https://leetcode.com/problems/preimage-size-of-factorial-zeroes-function/description/) |Hard|To Do|To Do|To Do|
 |794|[Valid Tic-Tac-Toe State](https://leetcode.com/problems/valid-tic-tac-toe-state/description/) |Medium|To Do|To Do|To Do|
 |795|[Number of Subarrays with Bounded Maximum](https://leetcode.com/problems/number-of-subarrays-with-bounded-maximum/description/) |Medium|To Do|To Do|To Do|
+|796|[Rotate String](https://leetcode.com/problems/rotate-string/description/) |Easy|To Do|To Do|To Do|
+|797|[All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/description/) |Medium|To Do|To Do|To Do|
+|798|[Smallest Rotation with Highest Score](https://leetcode.com/problems/smallest-rotation-with-highest-score/description/) |Medium|To Do|To Do|To Do|
+|799|[Champagne Tower](https://leetcode.com/problems/champagne-tower/description/) |Medium|To Do|To Do|To Do|
