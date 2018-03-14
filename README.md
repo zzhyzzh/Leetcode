@@ -1,8 +1,8 @@
 # Keep thinking, keep alive
-Until 2018-03-11 12:40:37, I have solved **10** / **714** problems while **132** are still locked.
+Until 2018-03-14 16:59:16, I have solved **13** / **714** problems while **132** are still locked.
 
 Completion statistic: 
-1. Python: 9
+1. Python: 12
 2. C++: 0
 3. Java: 0
 
@@ -15,7 +15,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |001|[Two Sum](https://leetcode.com/problems/two-sum/description/) |Easy|[Python](https://github.com/zzhyzzh/Leetcode/leetcode-algorithms/001.%20Two%20Sum\twoSum.py)|To Do|To Do|
 |002|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/) |Medium|[Python](https://github.com/zzhyzzh/Leetcode/leetcode-algorithms/002.%20Add%20Two%20Numbers\addTwoNumbers.py)|To Do|To Do|
 |003|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/) |Medium|[Python](https://github.com/zzhyzzh/Leetcode/leetcode-algorithms/003.%20Longest%20Substring%20Without%20Repeating%20Characters\lengthOfLongestSubstring.py)|To Do|To Do|
-|004|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/description/) |Hard|To Do|To Do|To Do|
+|004|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/description/) |Hard|[Python](https://github.com/zzhyzzh/Leetcode/leetcode-algorithms/004.%20Median%20of%20Two%20Sorted%20Arrays\findMedianSortedArrays.py)|To Do|To Do|
 |005|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/description/) |Medium|[Python](https://github.com/zzhyzzh/Leetcode/leetcode-algorithms/005.%20Longest%20Palindromic%20Substring\longestPalindrome.py)|To Do|To Do|
 |006|[ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/description/) |Medium|[Python](https://github.com/zzhyzzh/Leetcode/leetcode-algorithms/006.%20ZigZag%20Conversion\convert.py)|To Do|To Do|
 |007|[Reverse Integer](https://leetcode.com/problems/reverse-integer/description/) |Easy|[Python](https://github.com/zzhyzzh/Leetcode/leetcode-algorithms/007.%20Reverse%20Integer\reverse.py)|To Do|To Do|
@@ -23,8 +23,8 @@ Note: :lock: means you need to buy a book from LeetCode
 |009|[Palindrome Number](https://leetcode.com/problems/palindrome-number/description/) |Easy|[Python](https://github.com/zzhyzzh/Leetcode/leetcode-algorithms/009.%20Palindrome%20Number\isPalindrome.py)|To Do|To Do|
 |010|[Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/description/) |Hard|To Do|To Do|To Do|
 |011|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/) |Medium|[Python](https://github.com/zzhyzzh/Leetcode/leetcode-algorithms/011.%20Container%20With%20Most%20Water\maxArea.py)|To Do|To Do|
-|012|[Integer to Roman](https://leetcode.com/problems/integer-to-roman/description/) |Medium|To Do|To Do|To Do|
-|013|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/description/) |Easy|To Do|To Do|To Do|
+|012|[Integer to Roman](https://leetcode.com/problems/integer-to-roman/description/) |Medium|[Python](https://github.com/zzhyzzh/Leetcode/leetcode-algorithms/012.%20Integer%20to%20Roman\intToRoman.py)|To Do|To Do|
+|013|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/description/) |Easy|[Python](https://github.com/zzhyzzh/Leetcode/leetcode-algorithms/013.%20Roman%20to%20Integer\romanToInt.py)|To Do|To Do|
 |014|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description/) |Easy|To Do|To Do|To Do|
 |015|[3Sum](https://leetcode.com/problems/3sum/description/) |Medium|To Do|To Do|To Do|
 |016|[3Sum Closest](https://leetcode.com/problems/3sum-closest/description/) |Medium|To Do|To Do|To Do|
@@ -724,5 +724,5 @@ Note: :lock: means you need to buy a book from LeetCode
 |795|[Number of Subarrays with Bounded Maximum](https://leetcode.com/problems/number-of-subarrays-with-bounded-maximum/description/) |Medium|To Do|To Do|To Do|
 |796|[Rotate String](https://leetcode.com/problems/rotate-string/description/) |Easy|To Do|To Do|To Do|
 |797|[All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/description/) |Medium|To Do|To Do|To Do|
-|798|[Smallest Rotation with Highest Score](https://leetcode.com/problems/smallest-rotation-with-highest-score/description/) |Medium|To Do|To Do|To Do|
+|798|[Smallest Rotation with Highest Score](https://leetcode.com/problems/smallest-rotation-with-highest-score/description/) |Hard|To Do|To Do|To Do|
 |799|[Champagne Tower](https://leetcode.com/problems/champagne-tower/description/) |Medium|To Do|To Do|To Do|

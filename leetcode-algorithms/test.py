@@ -1,3 +1,2 @@
-a = '1'
-b = '2'
-
+import sys
+print(int((0 - 1)/2))
