@@ -1,8 +1,8 @@
 # Keep thinking, keep alive
-Until 2018-03-14 16:59:16, I have solved **13** / **714** problems while **132** are still locked.
+Until 2018-03-15 16:10:16, I have solved **15** / **714** problems while **132** are still locked.
 
 Completion statistic: 
-1. Python: 12
+1. Python: 14
 2. C++: 0
 3. Java: 0
 
@@ -25,8 +25,8 @@ Note: :lock: means you need to buy a book from LeetCode
 |011|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/) |Medium|[Python](https://github.com/zzhyzzh/Leetcode/leetcode-algorithms/011.%20Container%20With%20Most%20Water\maxArea.py)|To Do|To Do|
 |012|[Integer to Roman](https://leetcode.com/problems/integer-to-roman/description/) |Medium|[Python](https://github.com/zzhyzzh/Leetcode/leetcode-algorithms/012.%20Integer%20to%20Roman\intToRoman.py)|To Do|To Do|
 |013|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/description/) |Easy|[Python](https://github.com/zzhyzzh/Leetcode/leetcode-algorithms/013.%20Roman%20to%20Integer\romanToInt.py)|To Do|To Do|
-|014|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description/) |Easy|To Do|To Do|To Do|
-|015|[3Sum](https://leetcode.com/problems/3sum/description/) |Medium|To Do|To Do|To Do|
+|014|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description/) |Easy|[Python](https://github.com/zzhyzzh/Leetcode/leetcode-algorithms/014.%20Longest%20Common%20Prefix\longestCommonPrefix.py)|To Do|To Do|
+|015|[3Sum](https://leetcode.com/problems/3sum/description/) |Medium|[Python](https://github.com/zzhyzzh/Leetcode/leetcode-algorithms/015.%203Sum\threeSum.py)|To Do|To Do|
 |016|[3Sum Closest](https://leetcode.com/problems/3sum-closest/description/) |Medium|To Do|To Do|To Do|
 |017|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/) |Medium|To Do|To Do|To Do|
 |018|[4Sum](https://leetcode.com/problems/4sum/description/) |Medium|To Do|To Do|To Do|
