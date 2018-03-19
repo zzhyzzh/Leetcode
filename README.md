@@ -1,8 +1,8 @@
 # Keep thinking, keep alive
-Until 2018-03-15 16:10:16, I have solved **15** / **714** problems while **132** are still locked.
+Until 2018-03-19 14:52:38, I have solved **20** / **718** problems while **133** are still locked.
 
 Completion statistic: 
-1. Python: 14
+1. Python: 19
 2. C++: 0
 3. Java: 0
 
@@ -27,11 +27,11 @@ Note: :lock: means you need to buy a book from LeetCode
 |013|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/description/) |Easy|[Python](https://github.com/zzhyzzh/Leetcode/leetcode-algorithms/013.%20Roman%20to%20Integer\romanToInt.py)|To Do|To Do|
 |014|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description/) |Easy|[Python](https://github.com/zzhyzzh/Leetcode/leetcode-algorithms/014.%20Longest%20Common%20Prefix\longestCommonPrefix.py)|To Do|To Do|
 |015|[3Sum](https://leetcode.com/problems/3sum/description/) |Medium|[Python](https://github.com/zzhyzzh/Leetcode/leetcode-algorithms/015.%203Sum\threeSum.py)|To Do|To Do|
-|016|[3Sum Closest](https://leetcode.com/problems/3sum-closest/description/) |Medium|To Do|To Do|To Do|
-|017|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/) |Medium|To Do|To Do|To Do|
-|018|[4Sum](https://leetcode.com/problems/4sum/description/) |Medium|To Do|To Do|To Do|
-|019|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/) |Medium|To Do|To Do|To Do|
-|020|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/) |Easy|To Do|To Do|To Do|
+|016|[3Sum Closest](https://leetcode.com/problems/3sum-closest/description/) |Medium|[Python](https://github.com/zzhyzzh/Leetcode/leetcode-algorithms/016.%203Sum%20Closest\threeSumClosest.py)|To Do|To Do|
+|017|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/) |Medium|[Python](https://github.com/zzhyzzh/Leetcode/leetcode-algorithms/017.%20Letter%20Combinations%20of%20a%20Phone%20Number\letterCombinations.py)|To Do|To Do|
+|018|[4Sum](https://leetcode.com/problems/4sum/description/) |Medium|[Python](https://github.com/zzhyzzh/Leetcode/leetcode-algorithms/018.%204Sum\fourSum.py)|To Do|To Do|
+|019|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/) |Medium|[Python](https://github.com/zzhyzzh/Leetcode/leetcode-algorithms/019.%20Remove%20Nth%20Node%20From%20End%20of%20List\removeNthFromEnd.py)|To Do|To Do|
+|020|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/) |Easy|[Python](https://github.com/zzhyzzh/Leetcode/leetcode-algorithms/020.%20Valid%20Parentheses\isValid.py)|To Do|To Do|
 |021|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/) |Easy|To Do|To Do|To Do|
 |022|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/description/) |Medium|To Do|To Do|To Do|
 |023|[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/description/) |Hard|To Do|To Do|To Do|
@@ -726,3 +726,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |797|[All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/description/) |Medium|To Do|To Do|To Do|
 |798|[Smallest Rotation with Highest Score](https://leetcode.com/problems/smallest-rotation-with-highest-score/description/) |Hard|To Do|To Do|To Do|
 |799|[Champagne Tower](https://leetcode.com/problems/champagne-tower/description/) |Medium|To Do|To Do|To Do|
+|800|[Similar RGB Color](https://leetcode.com/problems/similar-rgb-color/description/) :lock:|Easy|To Do|To Do|To Do|
+|801|[Minimum Swaps To Make Sequences Increasing](https://leetcode.com/problems/minimum-swaps-to-make-sequences-increasing/description/) |Medium|To Do|To Do|To Do|
+|802|[Find Eventual Safe States](https://leetcode.com/problems/find-eventual-safe-states/description/) |Medium|To Do|To Do|To Do|
+|803|[Bricks Falling When Hit](https://leetcode.com/problems/bricks-falling-when-hit/description/) |Hard|To Do|To Do|To Do|
