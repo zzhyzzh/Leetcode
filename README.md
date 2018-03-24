@@ -1,8 +1,8 @@
 # Keep thinking, keep alive
-Until 2018-03-19 14:52:38, I have solved **20** / **718** problems while **133** are still locked.
+Until 2018-03-24 13:21:23, I have solved **23** / **718** problems while **133** are still locked.
 
 Completion statistic: 
-1. Python: 19
+1. Python: 22
 2. C++: 0
 3. Java: 0
 
@@ -21,7 +21,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |007|[Reverse Integer](https://leetcode.com/problems/reverse-integer/description/) |Easy|[Python](https://github.com/zzhyzzh/Leetcode/leetcode-algorithms/007.%20Reverse%20Integer\reverse.py)|To Do|To Do|
 |008|[String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/description/) |Medium|[Python](https://github.com/zzhyzzh/Leetcode/leetcode-algorithms/008.%20String%20to%20Integer%20(atoi)\myAtoi.py)|To Do|To Do|
 |009|[Palindrome Number](https://leetcode.com/problems/palindrome-number/description/) |Easy|[Python](https://github.com/zzhyzzh/Leetcode/leetcode-algorithms/009.%20Palindrome%20Number\isPalindrome.py)|To Do|To Do|
-|010|[Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/description/) |Hard|To Do|To Do|To Do|
+|010|[Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/description/) |Hard|[Python](https://github.com/zzhyzzh/Leetcode/leetcode-algorithms/010.%20Regular%20Expression%20Matching\isMatch.py)|To Do|To Do|
 |011|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/) |Medium|[Python](https://github.com/zzhyzzh/Leetcode/leetcode-algorithms/011.%20Container%20With%20Most%20Water\maxArea.py)|To Do|To Do|
 |012|[Integer to Roman](https://leetcode.com/problems/integer-to-roman/description/) |Medium|[Python](https://github.com/zzhyzzh/Leetcode/leetcode-algorithms/012.%20Integer%20to%20Roman\intToRoman.py)|To Do|To Do|
 |013|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/description/) |Easy|[Python](https://github.com/zzhyzzh/Leetcode/leetcode-algorithms/013.%20Roman%20to%20Integer\romanToInt.py)|To Do|To Do|
@@ -32,9 +32,9 @@ Note: :lock: means you need to buy a book from LeetCode
 |018|[4Sum](https://leetcode.com/problems/4sum/description/) |Medium|[Python](https://github.com/zzhyzzh/Leetcode/leetcode-algorithms/018.%204Sum\fourSum.py)|To Do|To Do|
 |019|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/) |Medium|[Python](https://github.com/zzhyzzh/Leetcode/leetcode-algorithms/019.%20Remove%20Nth%20Node%20From%20End%20of%20List\removeNthFromEnd.py)|To Do|To Do|
 |020|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/) |Easy|[Python](https://github.com/zzhyzzh/Leetcode/leetcode-algorithms/020.%20Valid%20Parentheses\isValid.py)|To Do|To Do|
-|021|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/) |Easy|To Do|To Do|To Do|
+|021|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/) |Easy|[Python](https://github.com/zzhyzzh/Leetcode/leetcode-algorithms/021.%20Merge%20Two%20Sorted%20Lists\mergeTwoLists.py)|To Do|To Do|
 |022|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/description/) |Medium|To Do|To Do|To Do|
-|023|[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/description/) |Hard|To Do|To Do|To Do|
+|023|[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/description/) |Hard|[Python](https://github.com/zzhyzzh/Leetcode/leetcode-algorithms/023.%20Merge%20k%20Sorted%20Lists\mergeKLists.py)|To Do|To Do|
 |024|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/description/) |Medium|To Do|To Do|To Do|
 |025|[Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/description/) |Hard|To Do|To Do|To Do|
 |026|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) |Easy|To Do|To Do|To Do|
