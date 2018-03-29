@@ -99,7 +99,7 @@ class TableInform:
             if "?" in question_folder_name:
                 question_folder_name = question_folder_name.replace('?', '')
             if not os.path.exists(question_folder_name):
-                print(question_folder_name + 'is not exits, create it now....')
+                print(question_folder_name + ' is not exits, create it now....')
                 os.mkdir(question_folder_name)
 
     def update_table(self, oj):
