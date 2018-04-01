@@ -1,8 +1,8 @@
 # Keep thinking, keep alive
-Until 2018-03-29 13:49:18, I have solved **26** / **722** problems while **133** are still locked.
+Until 2018-04-01 13:00:48, I have solved **33** / **726** problems while **133** are still locked.
 
 Completion statistic: 
-1. Python: 25
+1. Python: 32
 2. C++: 0
 3. Java: 0
 
@@ -40,7 +40,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |026|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) |Easy|To Do|To Do|To Do|
 |027|[Remove Element](https://leetcode.com/problems/remove-element/description/) |Easy|To Do|To Do|To Do|
 |028|[Implement strStr()](https://leetcode.com/problems/implement-strstr/description/) |Easy|To Do|To Do|To Do|
-|029|[Divide Two Integers](https://leetcode.com/problems/divide-two-integers/description/) |Medium|To Do|To Do|To Do|
+|029|[Divide Two Integers](https://leetcode.com/problems/divide-two-integers/description/) |Medium|[Python](https://github.com/zzhyzzh/Leetcode/leetcode-algorithms/029.%20Divide%20Two%20Integers\divide.py)|To Do|To Do|
 |030|[Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/description/) |Hard|To Do|To Do|To Do|
 |031|[Next Permutation](https://leetcode.com/problems/next-permutation/description/) |Medium|To Do|To Do|To Do|
 |032|[Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/description/) |Hard|To Do|To Do|To Do|
@@ -147,7 +147,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |133|[Clone Graph](https://leetcode.com/problems/clone-graph/description/) |Medium|To Do|To Do|To Do|
 |134|[Gas Station](https://leetcode.com/problems/gas-station/description/) |Medium|To Do|To Do|To Do|
 |135|[Candy](https://leetcode.com/problems/candy/description/) |Hard|To Do|To Do|To Do|
-|136|[Single Number](https://leetcode.com/problems/single-number/description/) |Easy|To Do|To Do|To Do|
+|136|[Single Number](https://leetcode.com/problems/single-number/description/) |Easy|[Python](https://github.com/zzhyzzh/Leetcode/leetcode-algorithms/136.%20Single%20Number\singleNumber.py)|To Do|To Do|
 |137|[Single Number II](https://leetcode.com/problems/single-number-ii/description/) |Medium|To Do|To Do|To Do|
 |138|[Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/description/) |Medium|To Do|To Do|To Do|
 |139|[Word Break](https://leetcode.com/problems/word-break/description/) |Medium|To Do|To Do|To Do|
@@ -160,7 +160,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |146|[LRU Cache](https://leetcode.com/problems/lru-cache/description/) |Hard|To Do|To Do|To Do|
 |147|[Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/description/) |Medium|To Do|To Do|To Do|
 |148|[Sort List](https://leetcode.com/problems/sort-list/description/) |Medium|To Do|To Do|To Do|
-|149|[Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line/description/) |Hard|To Do|To Do|To Do|
+|149|[Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line/description/) |Hard|[Python](https://github.com/zzhyzzh/Leetcode/leetcode-algorithms/149.%20Max%20Points%20on%20a%20Line\maxPoints.py)|To Do|To Do|
 |150|[Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/description/) |Medium|To Do|To Do|To Do|
 |151|[Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/description/) |Medium|To Do|To Do|To Do|
 |152|[Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/description/) |Medium|To Do|To Do|To Do|
@@ -338,7 +338,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |341|[Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/description/) |Medium|To Do|To Do|To Do|
 |342|[Power of Four](https://leetcode.com/problems/power-of-four/description/) |Easy|To Do|To Do|To Do|
 |343|[Integer Break](https://leetcode.com/problems/integer-break/description/) |Medium|To Do|To Do|To Do|
-|344|[Reverse String](https://leetcode.com/problems/reverse-string/description/) |Easy|To Do|To Do|To Do|
+|344|[Reverse String](https://leetcode.com/problems/reverse-string/description/) |Easy|[Python](https://github.com/zzhyzzh/Leetcode/leetcode-algorithms/344.%20Reverse%20String\reverseString.py)|To Do|To Do|
 |345|[Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/description/) |Easy|To Do|To Do|To Do|
 |346|[Moving Average from Data Stream](https://leetcode.com/problems/moving-average-from-data-stream/description/) :lock:|Easy|To Do|To Do|To Do|
 |347|[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/description/) |Medium|To Do|To Do|To Do|
@@ -406,7 +406,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |409|[Longest Palindrome](https://leetcode.com/problems/longest-palindrome/description/) |Easy|To Do|To Do|To Do|
 |410|[Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/description/) |Hard|To Do|To Do|To Do|
 |411|[Minimum Unique Word Abbreviation](https://leetcode.com/problems/minimum-unique-word-abbreviation/description/) :lock:|Hard|To Do|To Do|To Do|
-|412|[Fizz Buzz](https://leetcode.com/problems/fizz-buzz/description/) |Easy|To Do|To Do|To Do|
+|412|[Fizz Buzz](https://leetcode.com/problems/fizz-buzz/description/) |Easy|[Python](https://github.com/zzhyzzh/Leetcode/leetcode-algorithms/412.%20Fizz%20Buzz\fizzBuzz.py)|To Do|To Do|
 |413|[Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices/description/) |Medium|To Do|To Do|To Do|
 |414|[Third Maximum Number](https://leetcode.com/problems/third-maximum-number/description/) |Easy|To Do|To Do|To Do|
 |415|[Add Strings](https://leetcode.com/problems/add-strings/description/) |Easy|To Do|To Do|To Do|
@@ -686,7 +686,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |757|[Set Intersection Size At Least Two](https://leetcode.com/problems/set-intersection-size-at-least-two/description/) |Hard|To Do|To Do|To Do|
 |758|[Bold Words in String](https://leetcode.com/problems/bold-words-in-string/description/) :lock:|Easy|To Do|To Do|To Do|
 |759|[Employee Free Time](https://leetcode.com/problems/employee-free-time/description/) :lock:|Hard|To Do|To Do|To Do|
-|760|[Find Anagram Mappings](https://leetcode.com/problems/find-anagram-mappings/description/) :lock:|Easy|To Do|To Do|To Do|
+|760|[Find Anagram Mappings](https://leetcode.com/problems/find-anagram-mappings/description/) :lock:|Easy|[Python](https://github.com/zzhyzzh/Leetcode/leetcode-algorithms/760.%20Find%20Anagram%20Mappings\anagramMappings.py)|To Do|To Do|
 |761|[Special Binary String](https://leetcode.com/problems/special-binary-string/description/) |Hard|To Do|To Do|To Do|
 |762|[Prime Number of Set Bits in Binary Representation](https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation/description/) |Easy|To Do|To Do|To Do|
 |763|[Partition Labels](https://leetcode.com/problems/partition-labels/description/) |Medium|To Do|To Do|To Do|
@@ -733,4 +733,8 @@ Note: :lock: means you need to buy a book from LeetCode
 |804|[Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/description/) |Easy|[Python](https://github.com/zzhyzzh/Leetcode/leetcode-algorithms/804.%20Unique%20Morse%20Code%20Words\uniqueMorseRepresentations.py)|To Do|To Do|
 |805|[Split Array With Same Average](https://leetcode.com/problems/split-array-with-same-average/description/) |Hard|To Do|To Do|To Do|
 |806|[Number of Lines To Write String](https://leetcode.com/problems/number-of-lines-to-write-string/description/) |Easy|To Do|To Do|To Do|
-|807|[Max Increase to Keep City Skyline](https://leetcode.com/problems/max-increase-to-keep-city-skyline/description/) |Medium|To Do|To Do|To Do|
+|807|[Max Increase to Keep City Skyline](https://leetcode.com/problems/max-increase-to-keep-city-skyline/description/) |Medium|[Python](https://github.com/zzhyzzh/Leetcode/leetcode-algorithms/807.%20Max%20Increase%20to%20Keep%20City%20Skyline\maxIncreaseKeepingSkyline.py)|To Do|To Do|
+|808|[Soup Servings](https://leetcode.com/problems/soup-servings/description/) |Medium|To Do|To Do|To Do|
+|809|[Expressive Words](https://leetcode.com/problems/expressive-words/description/) |Medium|To Do|To Do|To Do|
+|810|[Chalkboard XOR Game](https://leetcode.com/problems/chalkboard-xor-game/description/) |Hard|To Do|To Do|To Do|
+|811|[Subdomain Visit Count](https://leetcode.com/problems/subdomain-visit-count/description/) |Easy|To Do|To Do|To Do|
