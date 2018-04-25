@@ -14,7 +14,7 @@ class Config:
     """
     local_path = 'D:\Git\Leetcode'
     # solution of leetcode
-    github_leetcode_url = 'https://github.com/zzhyzzh/Leetcode/leetcode-algorithms/'
+    github_leetcode_url = 'https://github.com/zzhyzzh/Leetcode/blob/master/leetcode-algorithms/'
     # solution of pat,　暂时还没写
     github_pat_url = 'https://github.com/hey-bruce/algorithms_and_oj/blob/master/pat-algorithms/'
     leetcode_url = 'https://leetcode.com/problems/'
@@ -99,7 +99,7 @@ class TableInform:
             if "?" in question_folder_name:
                 question_folder_name = question_folder_name.replace('?', '')
             if not os.path.exists(question_folder_name):
-                print(question_folder_name + ' doesn\'t exits, creating now....')
+                print("\"" + question_folder_name + "\"" + ' doesn\'t exits, creating now....')
                 os.mkdir(question_folder_name)
 
     def update_table(self, oj):

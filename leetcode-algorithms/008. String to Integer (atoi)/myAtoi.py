@@ -45,5 +45,5 @@ class Solution:
             return intVal * isNegative
 
 solution = Solution()
-result = solution.myAtoi("123");
+result = solution.myAtoi("123")
 print(result)
