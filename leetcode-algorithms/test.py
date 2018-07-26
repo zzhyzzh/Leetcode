@@ -1,2 +1,3 @@
-a = "a" * 3
+a = "asdfsgdh"
+a[0:1] = "1"
 print(a)
