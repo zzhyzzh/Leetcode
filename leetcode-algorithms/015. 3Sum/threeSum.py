@@ -10,6 +10,7 @@ class Solution:
             return solution_set
         L = 0
         while L < len(nums) - 2 and nums[L] <= 0:
+            #skip same numbers
             if L > 0 and nums[L] == nums[L - 1]:
                 L += 1
                 continue

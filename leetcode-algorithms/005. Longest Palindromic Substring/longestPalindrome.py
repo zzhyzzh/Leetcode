@@ -4,6 +4,8 @@ class Solution:
         :type s: str
         :rtype: str
         """
+        if s == "":
+            return s
         palin_1 = self.singleType(s);
         palin_2 = self.doubleType(s);
 
